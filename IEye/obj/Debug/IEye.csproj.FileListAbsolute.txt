@@ -19,3 +19,13 @@ D:\IEye\obj\Debug\IEye.csproj.GenerateResource.Cache
 D:\IEye\obj\Debug\IEye.csproj.CoreCompileInputs.cache
 D:\IEye\obj\Debug\Demo.dll
 D:\IEye\obj\Debug\Demo.pdb
+C:\Users\wpf\Source\Repos\ispyplu\IEye\bin\Debug\Accord.dll.config
+C:\Users\wpf\Source\Repos\ispyplu\IEye\bin\Debug\Accord.dll
+C:\Users\wpf\Source\Repos\ispyplu\IEye\bin\Debug\Accord.xml
+C:\Users\wpf\Source\Repos\ispyplu\IEye\obj\Debug\Plugins.Configure.resources
+C:\Users\wpf\Source\Repos\ispyplu\IEye\obj\Debug\IEye.csproj.GenerateResource.Cache
+C:\Users\wpf\Source\Repos\ispyplu\IEye\obj\Debug\IEye.csproj.CoreCompileInputs.cache
+C:\Users\wpf\Source\Repos\ispyplu\IEye\bin\Debug\IEye.dll
+C:\Users\wpf\Source\Repos\ispyplu\IEye\bin\Debug\IEye.pdb
+C:\Users\wpf\Source\Repos\ispyplu\IEye\obj\Debug\IEye.dll
+C:\Users\wpf\Source\Repos\ispyplu\IEye\obj\Debug\IEye.pdb
